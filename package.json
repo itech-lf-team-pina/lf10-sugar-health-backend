@@ -1,0 +1,25 @@
+{
+  "name": "lf10-sugar-health-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itech-lf-team-pina/lf10-sugar-health-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itech-lf-team-pina/lf10-sugar-health-backend/issues"
+  },
+  "homepage": "https://github.com/itech-lf-team-pina/lf10-sugar-health-backend#readme",
+  "devDependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
